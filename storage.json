@@ -1,0 +1,43 @@
+{
+  "518547021523583024": {
+    "experience": 6,
+    "messagessent": 12,
+    "money": 807516,
+    "level": 2,
+    "cooldowns": {
+      "work": 1670752406512
+    },
+    "multipliers": {
+      "work": 1
+    },
+    "items": {
+      "Cookie": 3
+    },
+    "currentitems": {
+      "Pizza": 10
+    }
+  },
+  "1042865048651059200": {
+    "experience": 0,
+    "messagessent": 0,
+    "money": 0,
+    "level": 1,
+    "cooldowns": {
+      "work": 0
+    },
+    "multipliers": {
+      "work": 1
+    },
+    "items": {}
+  },
+  "633475188847017994": {
+    "experience": 1,
+    "messagessent": 1,
+    "money": 0,
+    "level": 1,
+    "cooldowns": {
+      "work": 0
+    },
+    "items": {}
+  }
+}
